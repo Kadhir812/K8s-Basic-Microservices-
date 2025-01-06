@@ -19,9 +19,6 @@ kubernetes-microservices/
 │   ├── user-service.yaml    # Kubernetes manifests for User Service
 │   ├── order-service.yaml   # Kubernetes manifests for Order Service
 │   ├── mysql.yaml           # Kubernetes manifests for MySQL
-├── scripts/
-│   ├── init.sql             # SQL script for initializing database
-├── .gitignore               # Ignore unnecessary files (e.g., .env, __pycache__)
 ├── README.md                # Documentation for your project
 ```
 
